@@ -81,6 +81,13 @@ footer {
     color: #888888;
 }
 
+.titre-principal {
+    font-size: 42px;
+    color: #36c96b;
+    font-weight: bold;
+    text-align: center;
+}
+
 
 /* S2 - Background color and animation */
 
